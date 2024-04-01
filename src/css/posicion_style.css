@@ -1,0 +1,16 @@
+.encabezado{
+    display: flex;
+    border-bottom: solid;
+    border-color: rgb(105, 15, 189);
+    
+}
+
+#logo_riwi{
+    width: 190px;
+    height: 130px;
+}
+
+#titulo_1{
+    position: absolute;
+    left: 35%;
+}
