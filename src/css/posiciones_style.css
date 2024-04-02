@@ -25,6 +25,10 @@
     top: 5%;
 }
 
+.seccion_1{
+    margin-top: 18px;
+}
+
 .contenedor-imagen{
     width: 200px;
     height: 200px;
@@ -32,4 +36,9 @@
     border-radius: 30px;
     border-width: 5px;
     border-color: gray;
+}
+
+.contenedor{
+    margin-top: 35px;
+    display: flex;
 }
