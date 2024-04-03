@@ -53,3 +53,19 @@
     margin:15px;
     text-align: center;
 }
+
+#titulo_basica{
+    position: sticky;
+    top: 0px;
+    background-color: rgb(105, 15, 189);
+    width: 100%;
+    z-index: 1;
+}
+
+#titulo_avanzada{
+    position: sticky;
+    top: 0px;
+    background-color: rgb(105, 15, 189);
+    width: 100%;
+    z-index: 1;
+}
